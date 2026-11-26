@@ -1,0 +1,6 @@
+{
+  "name": "دليل طرق كربلاء المقدسة",
+  "description": "خريطة تفاعلية لطرق محافظة كربلاء المقدسة والمحاور المؤدية إلى العتبتين الحسينية والعباسية المقدستين مع حالة المرور المباشرة.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
